@@ -71,7 +71,7 @@ function Projects() {
               description="An Online Code Collaboration Platform with Real-time collaborative code editing for multiple participants with real-time video and audio communication through PeerJs, enhancing seamless collaboration for remote
 teams. Also, implemented syntax highlighting for C-like languages using CodeMirror,"
               ghLink="https://github.com/Unstable108/CodeZila"
-              demoLink="https://code-zila.vercel.app/"
+              demoLink="https://code2video-share.onrender.com/"
             />
           </Col>
 
